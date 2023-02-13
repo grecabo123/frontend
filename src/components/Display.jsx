@@ -75,9 +75,10 @@ export default function Display() {
             <div className="navbar">
                 <ul>
 
-                    <li><Link to={'/'}>Register Data</Link></li>
+                    <li><Link to={'/'}>Register Data From Database</Link></li>
                 </ul>
             </div>
+            <h4>aiwhdaw</h4>
             <ul>
                 <div className='padd'>
                     {
